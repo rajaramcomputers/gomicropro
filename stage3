@@ -1,0 +1,16 @@
+# In this stage
+Creating Servers
+Handling Requests
+Interacting with the HTTP Protocol - Headers Cookies and Status Codes
+
+#Creating HTTP Servers
+
+1. The Default Servers - ListenandServer
+
+2. Creating Servers with TLS
+In the folder, accessed using WSL 
+root@DESKTOP-LDH6JU7:/mnt/d/gomicropro# go run '/usr/local/go/src/crypto/tls/generate_cert.go' --host localhost
+
+3. Creating Custom Servers
+
+
